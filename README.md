@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samarth-Kumar-Samal](https://github.com/Samarth-Kumar-Samal)
 
-- 📫 How to reach me **samsamal1606@gmail.com**
+- 📫 How to reach me **samsamal1606@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
