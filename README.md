@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@samsamal1606" target="blank"><img align="center" src="https://im.rediff.com/news/2023/jul/24twitter.jpg" alt="@samsamal1606" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samarth-kumar-samal-305347194/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="samarth-kumar-samal-305347194/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samarth-kumar-samal-305347194/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="samarth-kumar-samal-305347194/" height="30" width="40" /></a>
 <a href="https://kaggle.com/samarthkumarsamal" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="samarthkumarsamal" height="30" width="40" /></a>
 </p>
 
