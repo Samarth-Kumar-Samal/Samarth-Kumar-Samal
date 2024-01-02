@@ -17,18 +17,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/>
   </a>
   
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
   </a>
   
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/>
   </a>
   
   <!-- Microsoft SQL Server -->
@@ -43,7 +43,7 @@
   
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/473742/pandas.svg" alt="pandas" width="40" height="40"/>
   </a>
   
   <!-- Python -->
