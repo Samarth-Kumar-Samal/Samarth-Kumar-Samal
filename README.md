@@ -50,7 +50,7 @@
   <!-- Pandas -->
   <h4 align="left">Pandas:</h4>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/423852/panda-origami-paper.svg" alt="pandas" width="40" height="40"/>
   </a>
   
   <!-- Python -->
