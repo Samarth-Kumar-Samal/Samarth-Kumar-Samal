@@ -18,51 +18,61 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- C++ -->
+  <h4 align="left">C++:</h4>
   <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/>
   </a>
   
   <!-- Git -->
+  <h4 align="left">Git:</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
   </a>
   
   <!-- Linux -->
+  <h4 align="left">Linux:</h4>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/>
   </a>
   
   <!-- Microsoft SQL Server -->
+  <h4 align="left">SQL Server:</h4>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/374093/sql.svg" alt="mssql" width="40" height="40"/>
   </a>
   
   <!-- OpenCV -->
+  <h4 align="left">OpenCV:</h4>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
   
   <!-- Pandas -->
+  <h4 align="left">Pandas:</h4>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/473742/pandas.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="pandas" width="40" height="40"/>
   </a>
   
   <!-- Python -->
+  <h4 align="left">Python:</h4>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   
   <!-- Scikit-learn -->
+  <h4 align="left">Scikit-Learn:</h4>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
   
   <!-- Seaborn -->
+  <h4 align="left">Seaborn:</h4>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   
   <!-- TensorFlow -->
+  <h4 align="left">Tensorflow:</h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
