@@ -68,7 +68,3 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth-kumar-samal&show_icons=true&locale=en&layout=compact" alt="samarth-kumar-samal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-kumar-samal&" alt="samarth-kumar-samal" /></p>
-
